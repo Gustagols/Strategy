@@ -1,0 +1,2 @@
+# Strategy
+código Strategy
